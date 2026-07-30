@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="150" height="150" style="border-radius: 50%;" alt="logo"/>
+<img src="assets/logo.jpg" width="150" height="150" style="border-radius: 50%;" alt="logo"/>
 
 <br/>
 
