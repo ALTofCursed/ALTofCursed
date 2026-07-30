@@ -1,55 +1,100 @@
 
+
 <div align="center">
 
-<img src="assets/logo.jpg" width="150" height="150" style="border-radius: 50%;" alt="logo"/>
+<img src="assets/logo.jpg" width="180" alt="logo"/>
 
-<br/>
+# ☁️ ALTofCursed
 
-# **ALTofCursed**
+### Начинающий разработчик • JavaScript • Python
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=180&section=header&text=Welcome%20To%20My%20Profile&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DFF6FF&height=120&section=header" width="100%"/>
+<br>
 
-<br/>
-
-![Static Badge](https://img.shields.io/badge/status-online-1E90FF?style=for-the-badge&labelColor=DFF6FF)
-![Static Badge](https://img.shields.io/badge/dev-frontend%20%7C%20backend-1E90FF?style=for-the-badge&labelColor=DFF6FF)
-
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=ALTofCursed&color=89CFF0&style=for-the-badge)
 
 </div>
 
-## 🌌 О себе
+---
 
-- 🌱 Начинающий программист, только учусь и делаю свои первые проекты
-- 💡 Вдохновился программированием благодаря другу [itzl4zzy](https://github.com/itzl4zzy)
-- 📚 Разбираюсь в основах и понемногу расту как разработчик
-- 📫 Как связаться: *@CursedZzzz*
+## 💫 Обо мне
 
-<br/>
+```js
+const ALT = {
+    nickname: "ALTofCursed",
+    status: "Начинающий разработчик",
+    learning: ["JavaScript", "Python", "Web Development"],
+    inspiration: "itzl4zzy",
+    contacts: "@CursedZzzz"
+};
+````
+
+* 🌱 Изучаю программирование и создаю первые проекты
+* 🚀 Постоянно улучшаю свои навыки
+* 💡 Люблю изучать новые технологии
+* 🎯 Цель — стать сильным Full-Stack разработчиком
+
+---
+
+## ⚡ Технологии
 
 <div align="center">
 
-## 🛠️ Технологии
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,vscode,github&theme=light" />
 
-![Static Badge](https://img.shields.io/badge/JavaScript-DFF6FF?style=for-the-badge&logo=javascript&logoColor=1E90FF)
-![Static Badge](https://img.shields.io/badge/Python-DFF6FF?style=for-the-badge&logo=python&logoColor=1E90FF)
-![Static Badge](https://img.shields.io/badge/HTML5-DFF6FF?style=for-the-badge&logo=html5&logoColor=1E90FF)
-![Static Badge](https://img.shields.io/badge/CSS3-DFF6FF?style=for-the-badge&logo=css3&logoColor=1E90FF)
-![Static Badge](https://img.shields.io/badge/Git-DFF6FF?style=for-the-badge&logo=git&logoColor=1E90FF)
+</div>
 
-<br/>
+---
 
-## 📊 Статистика
+## 📊 GitHub Статистика
 
-<img src="https://github-readme-stats.vercel.app/api?username=ALTofCursed&show_icons=true&hide_border=true&bg_color=DFF6FF&title_color=1E90FF&icon_color=1E90FF&text_color=2C3E50" width="48%"/>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALTofCursed&hide_border=true&background=DFF6FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideNums=2C3E50&currStreakNum=2C3E50&dates=2C3E50&sideLabels=2C3E50" width="48%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ALTofCursed&show_icons=true&bg_color=EAF8FF&title_color=4A90E2&icon_color=4A90E2&text_color=333333&hide_border=true"/>
 
-<br/><br/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ALTofCursed&background=EAF8FF&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&hide_border=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DFF6FF&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+## 📈 Активность
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALTofCursed&bg_color=EAF8FF&color=4A90E2&line=4A90E2&point=89CFF0&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Достижения
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ALTofCursed&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 📬 Связь
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@CursedZzzz-89CFF0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/CursedZzzz)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Спасибо за посещение профиля!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=120&section=footer"/>
 
 </div>
 ```
+
