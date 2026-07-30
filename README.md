@@ -20,7 +20,7 @@
 
 ## 💫 Обо мне
 
-```js
+
 const ALT = {
     nickname: "ALTofCursed",
     status: "Начинающий разработчик",
